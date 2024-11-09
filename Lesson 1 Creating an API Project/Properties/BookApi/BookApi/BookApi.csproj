@@ -4,7 +4,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Lesson_1_Creating_an_API_Project</RootNamespace>
   </PropertyGroup>
 
 </Project>

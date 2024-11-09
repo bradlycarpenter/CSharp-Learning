@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/brad/.nuget/packages/": {}
+    "C:\\Users\\brad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brad/Documents/Programming/dotnet/Lesson 1 Creating an API Project/Lesson 1 Creating an API Project.csproj",
-      "projectName": "Lesson 1 Creating an API Project",
-      "projectPath": "/home/brad/Documents/Programming/dotnet/Lesson 1 Creating an API Project/Lesson 1 Creating an API Project.csproj",
-      "packagesPath": "/home/brad/.nuget/packages/",
-      "outputPath": "/home/brad/Documents/Programming/dotnet/Lesson 1 Creating an API Project/obj/",
+      "projectUniqueName": "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj",
+      "projectName": "BookApi",
+      "projectPath": "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj",
+      "packagesPath": "C:\\Users\\brad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/brad/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\brad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,12 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.8, 8.0.8]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -68,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
