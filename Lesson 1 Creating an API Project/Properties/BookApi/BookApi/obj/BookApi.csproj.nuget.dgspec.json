@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj": {}
+    "C:\\Users\\sins\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj": {
+    "C:\\Users\\sins\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj",
+        "projectUniqueName": "C:\\Users\\sins\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj",
         "projectName": "BookApi",
-        "projectPath": "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj",
-        "packagesPath": "C:\\Users\\brad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brad\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\obj\\",
+        "projectPath": "C:\\Users\\sins\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\BookApi.csproj",
+        "packagesPath": "C:\\Users\\sins\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sins\\Documents\\Programming\\CSharp-Learning\\Lesson 1 Creating an API Project\\Properties\\BookApi\\BookApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\brad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sins\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
