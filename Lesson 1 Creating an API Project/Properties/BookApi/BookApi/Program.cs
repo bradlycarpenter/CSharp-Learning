@@ -8,7 +8,7 @@ namespace BookApi
 
             // add services
             builder.Services.AddControllers();
-`
+
             var app = builder.Build();
 
             // add mapping
